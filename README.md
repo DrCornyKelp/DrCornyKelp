@@ -1,1 +1,6 @@
-START GAMBLING, GAMBLING IS AN INVESTMENT AND AN INVESTMENT ONLY, YOU WILL WIN!!!!!
+<div class="something"></div>
+<script>
+(function(){
+  document.querySelector(".something").innerHTML = "HIi"  
+})()
+</script>
